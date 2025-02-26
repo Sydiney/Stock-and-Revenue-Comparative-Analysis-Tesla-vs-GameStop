@@ -24,3 +24,39 @@ The main objective of this project is to build an interactive visualization that
 - **Stock data extraction**: Uses yfinance to collect historical stock price data for Tesla and GameStop.
 - **Revenue extraction via Web Scraping**: Scraps specific pages to collect information about companies' revenues.
 - **Interactive Visualization**: Generates interactive graphs for shares and revenues, allowing dynamic analysis of different periods.
+
+  ## How to Run the Project
+
+1. **Installation of Dependencies**:
+   To run the notebook, you must have the following libraries installed:
+   
+   ```bash
+   pip install yfinance
+   pip install beautifulsoup4
+   pip install plotly
+
+**Running the Notebook:**
+
+**Clone the repository:**
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+**Navigate to the project directory:**
+cd repository-name
+
+**Open the notebook in Jupyter Notebook or JupyterLab:**
+jupyter notebook
+
+**Make sure you have Python and Jupyter installed in your environment. Otherwise you can install Jupyter via pip:**
+pip install notebook
+
+**Expected Results**
+The project generates interactive graphics, such as:
+
+**Stock Price Chart:** Displays the behavior of Tesla and GameStop shares over time.
+**Revenue graph:** Presents the extracted revenue information, with a comparison between the two companies.
+
+**Author**
+Name: Sydiney Sudário
+GitHub: https://github.com/Sydiney
+Email: sydineydev@gmail.com
+
