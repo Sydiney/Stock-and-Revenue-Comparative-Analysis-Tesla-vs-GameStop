@@ -32,7 +32,7 @@ The project generates interactive graphics, such as:
 **Revenue graph:** Presents the extracted revenue information, with a comparison between the two companies.
 
 **Author**
-Name: Sydiney Sudário
-GitHub: https://github.com/Sydiney
+Name: Sydiney Sudário                                                                                                                                                          
+GitHub: https://github.com/Sydiney                                                                                                                                                    
 Email: sydineydev@gmail.com
 
