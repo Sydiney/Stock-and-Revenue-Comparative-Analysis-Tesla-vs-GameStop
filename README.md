@@ -25,36 +25,6 @@ The main objective of this project is to build an interactive visualization that
 - **Revenue extraction via Web Scraping**: Scraps specific pages to collect information about companies' revenues.
 - **Interactive Visualization**: Generates interactive graphs for shares and revenues, allowing dynamic analysis of different periods.
 
-  ## How to Run the Project
-
-1. **Installation of Dependencies**:
-   To run the notebook, you must have the following libraries installed:
-   
-   ```bash
-   pip install yfinance
-   pip install beautifulsoup4
-   pip install plotly
-
-**Running the Notebook:**
-
-**Clone the repository:**
-
-git clone https://github.com/seu-usuario/Tesla-vs-GameStop-Stock-and-Revenue-Comparative-Analysis.git
-
-
-**Navigate to the project directory:**
-
-cd repository-name
-
-**Open the notebook in Jupyter Notebook or JupyterLab:**
-
-jupyter notebook
-
-
-**Make sure you have Python and Jupyter installed in your environment. Otherwise you can install Jupyter via pip:**
-
-pip install notebook
-
 **Expected Results**
 The project generates interactive graphics, such as:
 
