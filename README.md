@@ -38,15 +38,18 @@ The main objective of this project is to build an interactive visualization that
 **Running the Notebook:**
 
 **Clone the repository:**
- `bash
+
+ ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 **Navigate to the project directory:**
- `bash
+
+ ```bash
 cd repository-name
 
 **Open the notebook in Jupyter Notebook or JupyterLab:**
- `bash
+
+ ```bash
 jupyter notebook
 
 **Make sure you have Python and Jupyter installed in your environment. Otherwise you can install Jupyter via pip:**
